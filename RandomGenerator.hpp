@@ -1,3 +1,10 @@
+// RandomGenerator.hpp
+// A modern C++ header-only random number generator
+// https://github.com/Batanounyy/Random-Number-Generator/
+// This code is licensed under the MIT License.
+// Copyright (c) 2025 Abdelrahman ElBatanouny
+// Happy coding!💻
+
 #ifndef RANDOM_GENERATOR_HPP
 #define RANDOM_GENERATOR_HPP
 

@@ -8,8 +8,8 @@ A lightweight, header-only C++ class for generating high-quality random numbers 
 ---
 
 ## **Documentation** ✨  
-[`Notion Documentation for the Project`] (https://www.notion.so/RandomGenerator-hpp-Documentation-1f8da1083c448006be69f93bbc596219?pvs=25)
-[`Notion Docs. for all Projects`] (https://www.notion.so/Batanouny-Codes-1f8da1083c4480e1b5e7c6632b54b259)
+[`Notion Documentation for the Project`](https://www.notion.so/RandomGenerator-hpp-Documentation-1f8da1083c448006be69f93bbc596219?pvs=25)
+[`Notion Docs. for all Projects`](https://www.notion.so/Batanouny-Codes-1f8da1083c4480e1b5e7c6632b54b259)
 ---
 
 ## **Features** ✨  

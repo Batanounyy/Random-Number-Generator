@@ -19,7 +19,7 @@ A lightweight, header-only C++ class for generating high-quality random numbers 
 ## **Installation** 📦  
 
 ### **Method 1: Single-file include**  
-1. Download [`RandomGenerator.hpp`](src/RandomGenerator.hpp)  
+1. Download [`RandomGenerator.hpp`](RandomGenerator.hpp)  
 2. Place it in your project’s include directory.  
 3. Include it:  
    ```cpp
